@@ -26,6 +26,11 @@
 # Figures PDF générées automatiquement par Rmd / knitr (reproductibles)
 images/*.pdf
 
+# Fichiers et dossiers intermédiaires générés par Rmd
+*_files/
+rapport-GEfficiency.md
+rapport-GEfficiency.tex
+
 # Fichiers système
 .DS_Store
 Thumbs.db
