@@ -1221,8 +1221,6 @@ modélisation.
 
 # Bibliographie {.unnumbered}
 
-::: {#refs}
-:::
 
 # Annexes {.unnumbered}
 
